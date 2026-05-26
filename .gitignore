@@ -1,0 +1,12 @@
+CLAUDE.md
+CLAUDE.local.md
+.env
+.env.local
+.env*.local
+node_modules/
+.next/
+prisma/dev.db
+src/generated/
+next-env.d.ts
+.playwright-mcp/
+.claude/
